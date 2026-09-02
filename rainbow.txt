@@ -1,5 +1,6 @@
 Red
 Orange
+Grün
 Gelb
 Blau
 Indigo
